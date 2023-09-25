@@ -1,5 +1,21 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+<ya-tr-span data-index="0-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="# Byte-compiled / optimized files " data-translation="# Скомпилированные в байтах / оптимизированные файлы " data-ch="0" data-type="trSpan"># Скомпилированные в байтах / оптимизированные файлы
+</ya-tr-span><ya-tr-span data-index="0-1" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="__pycache__/ " data-translation="__pycache__/ " data-ch="0" data-type="trSpan">__pycache__/
+</ya-tr-span><ya-tr-span data-index="0-2" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="*.py[cod] " data-translation="*.py[cod] " data-ch="0" data-type="trSpan">*.py[cod]
+</ya-tr-span><ya-tr-span data-index="0-3" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="*$py.class " data-translation="* $py.class " data-ch="0" data-type="trSpan">* $py.class
+</ya-tr-span><ya-tr-span data-index="0-4" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="# Distribution / packaging dist/ " data-translation="# Дистрибутив / упаковка  dist/ " data-ch="0" data-type="trSpan"># Дистрибутив / упаковка 
+dist/
+</ya-tr-span><ya-tr-span data-index="0-5" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="build/ " data-translation="сборка/ " data-ch="0" data-type="trSpan">сборка/
+</ya-tr-span><ya-tr-span data-index="0-6" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="*.egg-info/ " data-translation="*.egg-info/ " data-ch="0" data-type="trSpan">*.egg-info/
+</ya-tr-span><ya-tr-span data-index="0-7" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="# Virtual environments venv/ " data-translation="# Виртуальные среды  venv/ " data-ch="0" data-type="trSpan"># Виртуальные среды 
+venv/
+</ya-tr-span><ya-tr-span data-index="0-8" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="env/ " data-translation="env/ " data-ch="0" data-type="trSpan">env/
+</ya-tr-span><ya-tr-span data-index="0-9" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="# IDE specific files .vscode/ " data-translation="# Файлы, специфичные для IDE  .vscode/ " data-ch="0" data-type="trSpan"># Файлы, специфичные для IDE 
+.vscode/
+</ya-tr-span><ya-tr-span data-index="0-10" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value=".idea/ " data-translation=".idea/ " data-ch="0" data-type="trSpan">.idea/
+</ya-tr-span><ya-tr-span data-index="0-11" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="# Miscellaneous *.swp *.log *.tmp " data-translation="# Разное *.swp *.log *.tmp " data-ch="0" data-type="trSpan"># Разное 
+*.swp 
+*.log 
+*.tmp
+<
+*.env
+<
