@@ -1,0 +1,4 @@
+a = float(input("Введите первое число: "))
+b = float(input("Введите второе число: "))
+chastn = a / b
+print("Частное чисел {0} и {1} равно {2:.2f}".format(a, b, chastn))
