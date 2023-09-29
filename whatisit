@@ -2,8 +2,10 @@ a = float(input('Введите число: '))
 b = float(input('Введите число: '))
 average = (a+b)/2
 difference = max(abs(a), abs(b)) - min(abs(a), abs(b))
+chastn = a/b
 print(a+b)
 print(a-b)
 print(a*b)
 print(average)
 print(difference)
+print("Частное чисел {0} и {1} равно {2:.2f}".format(a, b, chastn))
